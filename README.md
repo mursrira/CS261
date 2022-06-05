@@ -10,3 +10,11 @@ Week7-
 [lect3(May13)](https://uci.zoom.us/rec/play/v5lcgWoHv5LJqB1x0IODiR5O-ee4oxTg5gPrNuptuPLFSA9iSBZISzIZYr_8BJJW4F7hmwl8NeZSBEBC.ZaWUkvrQrApcuDve)
 
 [General fractional cascading](https://www.youtube.com/watch?v=NMxLL3D5qd8)
+
+
+Week8-
+[lect1(May16)](https://uci.zoom.us/rec/play/VpEyyQTeTHAM6IffpLpd894bCjc9KPgY2TgEk1xY1iLkYPg4LVm3IzDPSwTZGnRlO6wjnNxPtM4BX0o6.gs3R78DXvFSOiL9a)
+
+[lect2(May18)](https://www.ics.uci.edu/~eppstein/261/)
+
+[lect3(May20)](https://uci.zoom.us/rec/play/vMW5Kbxu_DxKfZwOb2AWOZc7YJ2I-F-ZeD_h9_dSRZnJnTWTqPXCvroxPPyN679hN0C3gJZRYSy30lUB.IUIoO21q-c3wX-AO)
