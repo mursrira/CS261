@@ -26,4 +26,10 @@ Week9-
 
 [lect2(May25)](https://uci.zoom.us/rec/play/Jk9XsyL9tbWGm95caWmgZOXmTdFpEg9mZyHXlYodfko0PHIl2OW1E6eFu1JFgcHuKBLOZhfGG076jU5M.cLqDHjjNVVj8_yhP)
 
-[lect3(May20)](https://uci.zoom.us/rec/play/1oVK1P6bl3wafTMMjCet71Tl8YWXqg9tJnat9ECjCPEfFI3uPpVC0a_SqBhz_pQqqCcx8ACL0MdjEcc.lrpUisQOwVUGL5wa)
+[lect3(May27)](https://uci.zoom.us/rec/play/1oVK1P6bl3wafTMMjCet71Tl8YWXqg9tJnat9ECjCPEfFI3uPpVC0a_SqBhz_pQqqCcx8ACL0MdjEcc.lrpUisQOwVUGL5wa)
+
+Week10-
+
+[lect1(June01)](https://uci.zoom.us/rec/play/EikQ7b-c1RCUBvMtB0Uo-k11Y6o3kYTaX-JgJe5QZtY3RYyJX441jRxnK9SCtki1TwOz95BzxfY3dqHJ.2Du1s87CEVLMfm-I)
+
+[lect2(June03)](https://uci.zoom.us/rec/play/zMqWJCsCw9_O6pZzhr1LaAg4d3T4VskfFuf0FNeeJiGFkmYdZFs6CySDhs0L1OEw7lCBA27tbJpiLIym.9cT2zrQRiRKkjLeX)
