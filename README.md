@@ -13,6 +13,7 @@ Week7-
 
 
 Week8-
+
 [lect1(May16)](https://uci.zoom.us/rec/play/VpEyyQTeTHAM6IffpLpd894bCjc9KPgY2TgEk1xY1iLkYPg4LVm3IzDPSwTZGnRlO6wjnNxPtM4BX0o6.gs3R78DXvFSOiL9a)
 
 [lect2(May18)](https://www.ics.uci.edu/~eppstein/261/)
