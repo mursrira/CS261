@@ -20,6 +20,8 @@ Week8-
 
 [lect3(May20)](https://uci.zoom.us/rec/play/vMW5Kbxu_DxKfZwOb2AWOZc7YJ2I-F-ZeD_h9_dSRZnJnTWTqPXCvroxPPyN679hN0C3gJZRYSy30lUB.IUIoO21q-c3wX-AO)
 
+[Range Trees](https://www.youtube.com/watch?v=xVka6z1hu-I)
+
 Week9-
 
 [lect1(May23)](https://uci.zoom.us/rec/play/pbeVenLDg3fg29i9sgc7E0UuQ-JDgA6pAOIAxiBqev0HfMnPIRXfQeMLgW5jMvMVsex1XcK_iodDKvcO.jz981pnBSnv4NRog)
