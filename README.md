@@ -1,5 +1,10 @@
 # CS261
 
+Week6-
+
+[lect1(May04)](https://uci.zoom.us/rec/play/ZPiIAb8DjO2902dyku1aYkb8d5iNhXpZFVv7TqlWI79CFEfQilCejc8K8VaBWQio7Rigu1aT51pFvv-Y.KKGggY3aAB_X2CU_)
+
+[lect2(May06)](https://uci.zoom.us/rec/play/0UZmW3uyUyhMjQS7aV9V8h3mfgQYvExMlGuO8DWEkPag2Vrcwn9bDWli_qDWCxBz8AqrNMqFxw5KqefE.WVAXwK2qkLlaJlIP)
 
 Week7-
 
